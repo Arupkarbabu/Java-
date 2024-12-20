@@ -1,0 +1,91 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "IncDec",
+      "request": "launch",
+      "mainClass": "IncDec",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "cuboid",
+      "request": "launch",
+      "mainClass": "cuboid",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "quadratic",
+      "request": "launch",
+      "mainClass": "quadratic",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "areaoftangle",
+      "request": "launch",
+      "mainClass": "areaoftangle",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "DataSizeRange",
+      "request": "launch",
+      "mainClass": "DataSizeRange",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "Literal",
+      "request": "launch",
+      "mainClass": "Literal",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "arithmatic",
+      "request": "launch",
+      "mainClass": "arithmatic",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "hellow",
+      "request": "launch",
+      "mainClass": "hellow",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "keyboad",
+      "request": "launch",
+      "mainClass": "keyboad",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "keybord_name",
+      "request": "launch",
+      "mainClass": "keybord_name",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "variable",
+      "request": "launch",
+      "mainClass": "variable",
+      "projectName": "Java_3df404fa"
+    }
+  ]
+}
